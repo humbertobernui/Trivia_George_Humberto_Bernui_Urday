@@ -3,4 +3,4 @@ Trivia para curso de selección de Back End de Silabuz por la Beca Jóvenes Bice
 
 La trivia consiste de 6 preguntas, más un random battle
 
-[Demo](https://replit.com/@HumbertoBernui/QTFlistas)
+[DEMO](https://replit.com/@HumbertoBernui/QTFlistas)
